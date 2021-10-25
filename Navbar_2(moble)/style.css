@@ -1,0 +1,27 @@
+body{
+    background-color: #000000;
+}
+.ContentNavBottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    bottom:5%;
+    right: 18%;
+    border: 1px solid #667271;
+    padding: 0px;
+    border-radius: 30px;
+    background-color: #e6f1f062;
+}
+.iconContent{
+    margin: 15px;
+}
+
+.Cuad{
+    display: inline-block;
+    padding: 10px;
+    padding-bottom: 90%;
+    padding-right: 50%;
+    padding-left: 50%;
+    background-color: #1a1111;
+}
